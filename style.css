@@ -931,7 +931,7 @@ margin: auto;
     }
     .beneficio-2 p{
         width: 60%; /* ancho*/
-        font-size: 25px;
+        font-size: 15px;
     }
 /*---------------- FIN BENEFICIOS -------------*/
 
@@ -2461,3 +2461,4 @@ margin-inline-end: 0px;
 padding-inline-start: 40px;
 unicode-bidi: isolate;
 }*/
+
