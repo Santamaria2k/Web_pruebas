@@ -217,7 +217,8 @@ body {
     display: none;
 }   
 .menu-icono {
-    margin: 110px 20px 20px 30px;
+    /*margin: 110px 20px 20px 30px;*/
+    margin: 70px 10px 5px 12px;
     width: 35px;
     
 }
@@ -2461,4 +2462,5 @@ margin-inline-end: 0px;
 padding-inline-start: 40px;
 unicode-bidi: isolate;
 }*/
+
 
