@@ -1798,7 +1798,7 @@ body{
            /* background-color: #09c;*/
             background-color: rgb(69, 133, 106);
            /* background-image: url("imagenes/fondo_verde.jpg");*/
-            /*display: none;*/
+            display: none;
 
         
 
@@ -2470,6 +2470,7 @@ margin-inline-end: 0px;
 padding-inline-start: 40px;
 unicode-bidi: isolate;
 }*/
+
 
 
 
