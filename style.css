@@ -1780,21 +1780,21 @@ body{
         
         }
         .menu{
-          /*  padding: 50px;
+            padding: 50px;
             margin: 160px 20px 20px 20px;
             position: absolute;
             top: 20%;
             left: 0;
             right: 185px;
-            z-index: 1;*/
+            z-index: 1;
 
-        padding: 15px;
+       /* padding: 15px;
         margin: 130px 20px 0px 5px;
         position: absolute;
         top: 0%;
         left: 0;
         right: 210px;
-        z-index: 1;
+        z-index: 1;*/
            /* background-color: #09c;*/
             background-color: rgb(69, 133, 106);
            /* background-image: url("imagenes/fondo_verde.jpg");*/
@@ -2470,6 +2470,7 @@ margin-inline-end: 0px;
 padding-inline-start: 40px;
 unicode-bidi: isolate;
 }*/
+
 
 
 
