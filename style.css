@@ -929,8 +929,8 @@ margin: auto;
         background-image: url("imagenes/fondo\ celeste.bmp");
     }
     .beneficio-2 p{
-        width: 60%; /* ancho*/
-        font-size: 15px;
+     /*   width: 60%; /* ancho*/
+        font-size: 15px;*/
     }
 /*---------------- FIN BENEFICIOS -------------*/
 
@@ -2468,6 +2468,7 @@ margin-inline-end: 0px;
 padding-inline-start: 40px;
 unicode-bidi: isolate;
 }*/
+
 
 
 
