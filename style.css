@@ -909,10 +909,10 @@ margin: auto;
         justify-content: space-around;
         background-image: url("imagenes/fondo\ celeste.bmp");
     }
- /*   .beneficio-1 p{
+   .beneficio-1 p{
         width: 60%; /* ancho*/
         font-size: 25px;
-    }*/
+    }
     .beneficio-2{
         max-width: 1200px;
         display: flex;
@@ -2468,6 +2468,7 @@ margin-inline-end: 0px;
 padding-inline-start: 40px;
 unicode-bidi: isolate;
 }*/
+
 
 
 
