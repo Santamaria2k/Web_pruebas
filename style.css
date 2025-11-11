@@ -599,7 +599,7 @@ li {
 #NOTICIAS>ul.slider {
     position: relative;
     max-width: 800px;
-    width: 50%;
+    width: 0%;
     height: 330px;
     left: 35%;
 }
@@ -1931,7 +1931,7 @@ body{
 }
 @media (max-width: 991px) {
     #NOTICIAS> ul.slider {
-      width: auto;
+      width: 0;
       left: auto;
      
     }
@@ -2480,6 +2480,7 @@ margin-inline-end: 0px;
 padding-inline-start: 40px;
 unicode-bidi: isolate;
 }*/
+
 
 
 
